@@ -1,7 +1,7 @@
 About project:
 ===============
 
-- This project is proof of concept where using cloutwatch to centralize logs the application. In this project using winston log lib and when execute log methods write log in cloudwatch.
+- This project is proof of concept where using cloudwatch to centralize logs the application. In this project using winston log lib and when execute log methods write log in cloudwatch.
 
 Running project locally:
 =========================
